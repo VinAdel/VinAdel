@@ -1,4 +1,3 @@
-## 👋 Hi, I’m @VinAdel
 [![trophy](https://github-profile-trophy.vercel.app/?username=VinAdel&title=Experience,Commits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
